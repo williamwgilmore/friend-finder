@@ -1,0 +1,82 @@
+[
+  {
+    "name": "James Radcliff",
+    "pic": "http://www.thetimes.co.uk/tto/multimedia/archive/01016/15-02-27_FOX_FRANK_1016302b.jpg",
+    "survey": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "5",
+      "4",
+      "3",
+      "2",
+      "1"
+    ]
+  },
+  {
+    "name": "Justin Spears",
+    "pic": "https://s-media-cache-ak0.pinimg.com/736x/0c/83/23/0c8323cb26424ebd3b278d57f1f0e72d.jpg",
+    "survey": [
+      "5",
+      "4",
+      "4",
+      "3",
+      "3",
+      "2",
+      "2",
+      "1",
+      "1",
+      "5"
+    ]
+  },
+  {
+    "name": "Joshua Sanderson",
+    "pic": "https://www.biography.com/.image/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTIwNjA4NjM0MDYwOTY1Mzg4/adam-sandler-9542505-1-402.jpg",
+    "survey": [
+      "5",
+      "4",
+      "3",
+      "2",
+      "1",
+      "5",
+      "4",
+      "3",
+      "2",
+      "1"
+    ]
+  },
+  {
+    "name": "Eric Pain",
+    "pic": "http://pixel.nymag.com/imgs/daily/vulture/2015/04/01/01-t-pain-chatroom-silo.w190.h190.2x.png",
+    "survey": [
+      "3",
+      "2",
+      "1",
+      "2",
+      "3",
+      "2",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "name": "Ted Skywalker",
+    "pic": "http://img.cinemablend.com/cb/e/2/0/f/5/4/e20f54e3f65ce187605033ffbada9f88ef923cc07a8f037ff1da5d436d8e9822.jpg",
+    "survey": [
+      "5",
+      "4",
+      "5",
+      "4",
+      "5",
+      "4",
+      "3",
+      "1",
+      "2",
+      "5"
+    ]
+  }
+]
